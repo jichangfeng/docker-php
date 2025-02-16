@@ -15,3 +15,7 @@ This repository provides a Docker image for PHP with a wide variety of PHP exten
 - `docker pull jichangfeng/php:7.4.33-fpm-alpine`
 - `docker pull jichangfeng/php:7.4.33-cli`
 - `docker pull jichangfeng/php:7.4.33-cli-alpine`
+- `docker pull jichangfeng/php:5.6.40-fpm`
+- `docker pull jichangfeng/php:5.6.40-fpm-alpine`
+- `docker pull jichangfeng/php:5.6.40-cli`
+- `docker pull jichangfeng/php:5.6.40-cli-alpine`
